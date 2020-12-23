@@ -10,19 +10,20 @@
     background-repeat: no-repeat;
 }
 
-#login_container {
+#register_container {
     position: absolute;
     display: block;
     background-color: rgba(255, 255, 255, 0.6);
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    min-height: 300px;
-    min-width: 600px;
     align-items: center;
+    min-height: 400px;
+    min-width: 600px;
     margin: 0 auto;
     border-radius: 8px;
 }
+
 .title {
     display: block;
     text-align: center;
@@ -31,7 +32,7 @@
     padding-top: 20px;
     padding-bottom: 20px;
 }
-#login_container input {
+#register_container .input_text {
     display: block;
     width: 80%;
     margin: 12px auto auto auto;
@@ -40,7 +41,14 @@
     padding: 12px 8px;
 }
 
-#login_container button {
+#register_container .duplicate_check {
+    display: inline-block;
+    width: 15%;
+    padding: 8px;
+    margin: auto;
+}
+
+#register_container button {
     display: block;
     margin: 16px auto auto auto;
     background-color: #6200ee;
@@ -53,6 +61,21 @@
     color: white;
 }
 
-#login_container button:hover {
+#register_container button:hover {
     opacity: 0.38;
+}
+
+#register_container .checkbox_group {
+    align-self: center;
+    align-items: center;
+    width: 80%;
+    padding: 12px;
+    margin: auto;
+    display: block;
+}
+
+#register_container .input_checkbox {
+    color: #333333;
+    font-size: 14px;
+    display: inline-block;
 }

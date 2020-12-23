@@ -2,9 +2,28 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Register</title>
+    <link rel="stylesheet" href="../css/register.css">
 </head>
 <body>
-
+<img class="bg_img" alt="">
+<div id="register_container">
+    <div class="title">
+        SKKU Flea Market Register
+    </div>
+    <input class="input_text" style="display: inline-block; width: 65%; margin: 0 0 0 8%" id="user_id" type="text" placeholder="ID">
+    <button class="duplicate_check" id="duplicate" type="submit">중복확인</button>
+    <input class="input_text" id="user_pw" type="text" placeholder="Password">
+    <input class="input_text" id="user_name" type="text" placeholder="Name">
+    <div class="checkbox_group">
+        <input id="cb_buyer" class="input_checkbox" type="checkbox" value="buyer">Buyer
+        <input id="cb_seller" class="input_checkbox" type="checkbox" value="seller">Seller
+    </div>
+    <button id="btn_register" type="submit">SUBMIT</button>
+    <button id="btn_reset" type="submit">RESET</button>
+</div>
 </body>
+<script type="text/javascript" src="../utils/network-helper.js"></script>
+<script type="text/javascript" src="../utils/validators.js"></script>
+<script type="text/javascript" src="../javascripts/register.js"></script>
 </html>
