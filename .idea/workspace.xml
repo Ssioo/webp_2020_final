@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4b05e3b-a591-49ac-9828-fc4884bbeed9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/css/admin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/register.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javascripts/admin-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javascripts/admin-login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javascripts/register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/network-helper.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/javascripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/javascripts/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javascripts/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/javascripts/login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/validators.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/validators.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/admin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/admin/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/admin/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/product.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608696858613</updated>
-      <workItem from="1608696859673" duration="22706000" />
+      <workItem from="1608696859673" duration="25622000" />
     </task>
     <servers />
   </component>
