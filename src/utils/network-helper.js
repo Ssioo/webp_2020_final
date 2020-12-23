@@ -1,4 +1,4 @@
-const BASE_URL = 'http://192.168.0.14:3000' // 'http://localhost:3000'
+const BASE_URL = 'http://localhost:3000'
 
 
 const get = async (url, isAdmin = false) => {
